@@ -1,6 +1,6 @@
 # DzTech Store
 
-- **Étudiant(e)** : _Votre nom ici_
+- **Étudiant(e)** : BELOUAHAR Sofia
 - **Application** : DzTech Store, boutique en ligne d'électronique
 - **Description** : catalogue de produits tech, recherche, filtre par catégorie et panier global géré avec Redux.
 
